@@ -20,7 +20,7 @@ Acesta este un proiect web full-stack pentru gestionarea angajaților, construit
 
 - **Front-end:** React, React Router, Bootstrap, Bootswatch Vapor
 - **Back-end:** Spring Boot, Java
-- **Altele:** API REST (Postman) pentru comunicarea între front-end și back-end
+- **Altele:** API REST (Testare cu Postman) pentru comunicarea între front-end și back-end
 
 ---
 
