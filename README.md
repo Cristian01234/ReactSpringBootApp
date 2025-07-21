@@ -1,6 +1,9 @@
 # Employee Management System
 
-Acesta este un proiect web full-stack pentru gestionarea angajaților, construit cu React pentru partea de front-end și Spring Boot pentru back-end.
+## Descriere
+Acesta este un proiect web full-stack pentru gestionarea angajaților, construit cu React pentru front-end și Spring Boot pentru back-end.
+
+---
 
 ## Funcționalități
 
@@ -9,13 +12,17 @@ Acesta este un proiect web full-stack pentru gestionarea angajaților, construit
 - Actualizarea datelor unui angajat existent.
 - Ștergerea angajaților din listă.
 - Navigare între pagini cu React Router.
-- Interfață plăcută și responsive cu Bootstrap și tema Bootswatch Vapor.
+- Interfață plăcută și responsive folosind Bootstrap și tema Bootswatch Vapor.
+
+---
 
 ## Tehnologii folosite
 
-- Front-end: React, React Router, Bootstrap, Bootswatch Vapor
-- Back-end: Spring Boot, Java
-- API REST pentru comunicarea între front-end și back-end
+- **Front-end:** React, React Router, Bootstrap, Bootswatch Vapor
+- **Back-end:** Spring Boot, Java
+- **Altele:** API REST pentru comunicarea între front-end și back-end
+
+---
 
 ## Cum rulezi proiectul
 
@@ -23,11 +30,6 @@ Acesta este un proiect web full-stack pentru gestionarea angajaților, construit
 2. Pornește aplicația React (frontend) pe portul 3000.
 3. Accesează aplicația în browser la adresa: `http://localhost:3000`
 
----
-
-Proiect dezvoltat ca demo pentru managementul angajaților cu CRUD complet.
-
----
 
 
 
